@@ -1286,7 +1286,7 @@ ul.widget-tab-nav {
 		float: none;
 		text-align: center;
 		}
-	.site-header-image > img {
+	/* .site-header-image > img {
 		height: 500px;
 		width: auto;
 		min-width: 100%;
@@ -1295,7 +1295,7 @@ ul.widget-tab-nav {
 	    position: absolute;
 	    top: 50%;
 	    left: 50%;
-		}
+		} */
 	.content-area {
 		float: none;
 		}
